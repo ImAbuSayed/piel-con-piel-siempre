@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel con piel siempre, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel con piel siempre, Vol. 2** (piel-con-piel-siempre-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T01:55:48.764517 | `v1` | `8881c3fdb06100acffdfb375b2670c2d3315b7ccadbce9f8f109c8857b52cd7a` | `3de1630fe64bd8f9285d89177ac39575c1c8d3b9ebdd99ab836f350a7fdadfa6` | `2026-06-21_piel-con-piel-siempre-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -1,6 +1,6 @@
 # License
 
-**Piel con piel siempre**
+**Piel con piel siempre, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 

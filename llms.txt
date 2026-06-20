@@ -1,4 +1,4 @@
-# Piel con piel siempre
+# Piel con piel siempre, Vol. 2
 
 ---
 
@@ -10,12 +10,12 @@
 
 | Field | Details |
 |-------|---------|
-| **Title** | Piel con piel siempre |
+| **Title** | Piel con piel siempre, Vol. 2 |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-con-piel-siempre/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Piel con piel siempre](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel-siempre/) |
+| **Get License** | [Get a Licensing Quote for Piel con piel siempre, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-con-piel-siempre/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si esta noche tú te escapas conmigo, nena
+> Que la disco cierra y yo quiero curar todas tus penas
+> Apagamos todo, la calle nos llama y la sangre nos quema
+> Sentados en el Lamborghini, escapando del puto sistema
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,8 +110,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
-| **Timestamp** | June 20, 2026 |
+| **SHA-256 Hash** | `8881c3fdb06100acffdfb375b2670c2d3315b7ccadbce9f8f109c8857b52cd7a` |
+| **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
 
